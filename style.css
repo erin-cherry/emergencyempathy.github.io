@@ -44,7 +44,7 @@ p {
 
 
 a {
-	color: #E0E7F3;
+	color: #6486c2;
 	text-decoration: none;
 	font-family: Didot;
 }
@@ -67,19 +67,3 @@ button {
   	margin: 0 auto;
   	padding: 0 20px 20px 20px;
 }
-
-
-@media screen and (max-width: 50em) {
-  button {
-    font-size: 1.5em;
-	}
-  h2 {
-  	font-size: 2em;
-  	}
-  p {
-  	font-size: 2em;
-  	}
-  a {
-  	font-size: 1em;
-  	}
-  }

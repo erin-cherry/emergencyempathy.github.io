@@ -21,7 +21,7 @@ h2 {
 
 h3 {
 	color: #E0E7F3;
-	font-size: 18px;
+	font-size: 30px;
 	font-family: Didot;
 	font-weight: normal;
 }
@@ -29,7 +29,7 @@ h3 {
 
 p {
 	color: #000;
-	font-size: 14px;
+	font-size: 20px;
 	font-family: Didot;
 	font-weight: normal;
 }
@@ -46,9 +46,7 @@ p {
 a {
 	color: #E0E7F3;
 	text-decoration: none;
-	font-size: 12px;
 	font-family: Didot;
-	font-weight: bold;
 }
 
 

@@ -5,14 +5,14 @@ body {
 
 h1 {
 	font-size: 50px;
-	font-family: Segoe UI;
+	font-family: Calibri;
 }
 
 
 h2 {
 	color: #000;
 	font-size: 24px;
-	font-family: Segoe UI;
+	font-family: Calibri;
 	padding-top: 20px;
 	padding-bottom: 40px;
 	font-weight: normal;
@@ -20,9 +20,9 @@ h2 {
 
 
 h3 {
-	color: #E0E7F3;
+	color: #9191e9;
 	font-size: 20px;
-	font-family: Segoe UI;
+	font-family: Calibri;
 	font-weight: normal;
 }
 
@@ -30,7 +30,7 @@ h3 {
 p {
 	color: #000;
 	font-size: 16px;
-	font-family: Segoe UI;
+	font-family: Calibri;
 	font-weight: normal;
 }
 
@@ -39,7 +39,7 @@ p {
 	color: #000;
 	font-size: 12px;
 	font-style: italic;
-	font-family: Segoe UI;
+	font-family: Calibri;
 }
 
 
@@ -52,22 +52,22 @@ p {
 
 
 a {
-	color: #6486c2;
+	color: #9191e9;
 	text-decoration: none;
-	font-family: Segoe UI;
+	font-family: Calibri;
 	font-weight: bold;
 }
 
 
 button {
-	background-color: #E0E7F3;
-	border: 2px solid #E0E7F3;
+	background-color: #9191e9;
+	border: 2px solid #9191e9;
 	padding: 15px 32px;
 	text-align: center;
 	display: block;
 	font-size: 20px;
 	color: #000;
-	font-family: Segoe UI;
+	font-family: Calibri;
 	font-weight: bold;
 }
 

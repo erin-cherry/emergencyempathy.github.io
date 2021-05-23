@@ -4,15 +4,16 @@ body {
 
 
 h1 {
+	color: #bd91e9;
 	font-size: 50px;
-	font-family: Calibri;
+	font-family: Arial;
 }
 
 
 h2 {
 	color: #000;
 	font-size: 24px;
-	font-family: Calibri;
+	font-family: Arial;
 	padding-top: 20px;
 	padding-bottom: 40px;
 	font-weight: normal;
@@ -22,7 +23,7 @@ h2 {
 h3 {
 	color: #9191e9;
 	font-size: 20px;
-	font-family: Calibri;
+	font-family: Arial;
 	font-weight: normal;
 }
 
@@ -30,7 +31,7 @@ h3 {
 p {
 	color: #000;
 	font-size: 16px;
-	font-family: Calibri;
+	font-family: Arial;
 	font-weight: normal;
 }
 
@@ -39,7 +40,7 @@ p {
 	color: #000;
 	font-size: 12px;
 	font-style: italic;
-	font-family: Calibri;
+	font-family: Arial;
 }
 
 
@@ -54,20 +55,20 @@ p {
 a {
 	color: #9191e9;
 	text-decoration: none;
-	font-family: Calibri;
+	font-family: Arial;
 	font-weight: bold;
 }
 
 
 button {
-	background-color: #9191e9;
-	border: 2px solid #9191e9;
+	background-color: #bd91e9;
+	border: 2px solid #bd91e9;
 	padding: 15px 32px;
 	text-align: center;
 	display: block;
 	font-size: 20px;
 	color: #000;
-	font-family: Calibri;
+	font-family: Arial;
 	font-weight: bold;
 }
 

@@ -36,7 +36,6 @@ var quotes = [
 'How are you moving your body today?',
 'My heart hurts for you.',
 'I can\'t imagine what you must be going through.',
-'You\'re kidding.',
 'Thank you for sharing with me.',
 'What has this been like for you?',
 'You matter.',

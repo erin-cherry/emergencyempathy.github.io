@@ -4,7 +4,7 @@ body {
 
 
 h1 {
-	color: #e9e991;
+	color: #9191e9;
 	font-size: 50px;
 	font-family: Arial;
 }
@@ -61,8 +61,8 @@ a {
 
 
 button {
-	background-color: #e9e991;
-	border: 2px solid #e9e991;
+	background-color: #9191e9;
+	border: 2px solid #9191e9;
 	padding: 15px 32px;
 	text-align: center;
 	display: block;
